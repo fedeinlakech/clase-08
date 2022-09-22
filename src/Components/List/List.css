@@ -1,0 +1,21 @@
+.ul {
+    background-color: #fadf44;
+}
+
+.ul p {
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(3, 100, 3);
+    font-size: 25px;
+}
+
+.ul ul{
+    list-style:square;
+    list-style-position: inside;
+    text-align: left;
+}
+
+li {
+    padding-bottom: 5px;
+    font-weight: 600;
+}

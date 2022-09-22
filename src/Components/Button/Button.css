@@ -1,0 +1,18 @@
+.Button {
+    background-color: antiquewhite;
+}
+
+.Button p {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(64, 126, 207);
+}
+
+.Button button {
+    background-color: #ff0000;
+    font-size: 20px;
+    padding: 15px;
+    border: #0000ff solid 25px;
+    border-radius: 50px;
+    color: #ffffff;
+}

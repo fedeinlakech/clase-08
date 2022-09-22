@@ -1,0 +1,11 @@
+.Audio {
+    background-color: aqua;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.Audio p {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(7, 7, 126);
+}
